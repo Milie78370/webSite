@@ -1,0 +1,17 @@
+.container{
+    margin-top: 2%;;
+    padding-top: 2%;
+    background-color: skyblue;
+    padding-bottom: 2%;
+    border-radius: 5%;   
+}
+
+.container h1{
+    display: flex;
+    justify-content: center;
+     font-family: 'Open Sans', sans-serif;
+}
+
+.form-label-inscription{
+    color: rgb(15, 14, 14);
+}

@@ -1,0 +1,22 @@
+.container{
+    margin-top: 2%;;
+    padding-top: 2%;
+    background-color: skyblue;
+    padding-bottom: 2%;
+    border-radius: 5%;
+}
+
+.form-label-insertion{
+    color: black;
+    float: left;
+}
+
+h1{
+    text-align: center;
+}
+
+.text-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

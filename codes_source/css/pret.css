@@ -1,0 +1,20 @@
+.container{
+    margin-top: 10%;;
+    padding-top: 2%;
+    background-color: skyblue;
+    padding-bottom: 2%;
+    border-radius: 5%;
+}
+
+.container h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+	padding-bottom:2%;
+}
+
+.form_pret{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
